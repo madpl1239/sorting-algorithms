@@ -41,4 +41,5 @@ real    0m0,009s<br />
 user    0m0,009s<br />
 sys     0m0,000s<br />
 
-### It can be seen that, as usual, the quick sort algorithm is the fastest<br />
+### It can be seen that, as usual, the quick sort algorithm is the fastest$`~~`$😺
+<br />

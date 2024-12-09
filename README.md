@@ -11,7 +11,8 @@ g++ -o outfile anyfile.cpp -std=c++17.<br />
 the number of generated numbers if you want.<br />
 
 I used the compiler version: g++ (Ubuntu 11.4.0-2ubuntu1~18.04) 11.4.0<br />
-On my Kubuntu 18.04 (kernel version 5.4.0-152-generic) I ran these programs like this:<br />
+On my Kubuntu 18.04 (kernel version 5.4.0-152-generic) I ran these programs like this:<br /><br />
+
 time ./selection <br />
 and i received: <br />
 start sorting...<br />
